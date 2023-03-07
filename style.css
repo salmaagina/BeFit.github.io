@@ -216,3 +216,7 @@ h3{
     padding: 30px 2px;
     margin-left: 400px;
 }
+.demo-col{
+    display: block;
+margin: 0 auto;
+}
